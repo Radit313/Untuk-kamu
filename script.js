@@ -8,11 +8,11 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plss mau dong",
+        text: "o gitu",
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "pls klik yg kiri",
+        text: "beneran?",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
+    title.innerHTML = "HORE!! TIARA SIGMA SAYANG GWEJH";
     document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
